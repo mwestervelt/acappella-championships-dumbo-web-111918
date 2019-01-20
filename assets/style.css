@@ -13,6 +13,10 @@ h1, h2 {
 
 th {
   font-weight: bold;
+
+}
+th.delete {
+align-content: center;
 }
 
 .width-75 {
